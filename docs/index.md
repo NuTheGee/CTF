@@ -1,3 +1,0 @@
-# Hello
-
-* Tokyo Westerner CTF
